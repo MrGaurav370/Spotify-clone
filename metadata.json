@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Music - AI-Powered Spotify Clone",
+  "description": "A high-fidelity Spotify clone featuring an AI DJ powered by Gemini, a sleek dark-themed dashboard, and interactive music discovery components.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
